@@ -1,0 +1,7 @@
+student name: Trong To
+email:votinhnobody@csu.fullerton.edu
+
+this pong game done by researching online pong game and try to modify it 
+so it fullfill the require of new pong game only problem left is the game
+never end.
+
